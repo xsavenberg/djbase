@@ -1,0 +1,2 @@
+# djbase
+django base setup
